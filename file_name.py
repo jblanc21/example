@@ -8,5 +8,5 @@ print("bla")
 
 
 def somefxn:
-	a = 1+1
+	a = 2+2
 	return a
